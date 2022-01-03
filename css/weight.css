@@ -1,0 +1,47 @@
+.body{
+    width: 1024px;
+    height: 1366px;
+}
+
+.return{
+    position: absolute;
+    left: 5.57%;
+    right: 91.31%;
+    top: 3.59%;
+    bottom: 92.31%;
+}
+
+.text{
+    position: absolute;
+    width: 346px;
+    height: 43px;
+    left: 339px;
+    top: 56px;
+    font-family: Noto Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 40px;
+    line-height: 54px;
+    text-align: center;
+    letter-spacing: 0.465em;
+    color: #60794D;
+}
+
+input{
+    position: absolute;
+    color: white;
+    width: 562px;
+    height: 91px;
+    left: 231px;
+    top: 1104px;
+    border: 0;
+    background: #A0CA77;
+    border-radius: 43px;
+    font-family: Heebo;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 40px;
+    line-height: 100%;
+    text-align: center;
+    letter-spacing: 0.65em
+}
